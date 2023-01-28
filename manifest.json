@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "iaa extras",
+  "description": "iaa extras",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://www.iaa.gov.il/airports/ben-gurion/flight-board/*"],
+      "js": ["content.js"],
+      "type": "module"
+    }
+  ]
+}
