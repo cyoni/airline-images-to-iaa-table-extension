@@ -1,4 +1,4 @@
-# airline-images-to-iaa-table-extension
+# airline logo images extension
 
 This extension simply adds airline logo images to the table of flights in https://www.iaa.gov.il/airports/ben-gurion/flight-board/
 
